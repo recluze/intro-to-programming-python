@@ -1,0 +1,4 @@
+{
+  "test_instructor.py::test_parameter_float": true, 
+  "test_student.py::test_parameter_float": true
+}

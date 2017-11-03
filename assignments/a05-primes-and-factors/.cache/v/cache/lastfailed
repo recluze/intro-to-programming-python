@@ -1,0 +1,21 @@
+{
+  "test_instructor.py::test_get_prime_1": true, 
+  "test_instructor.py::test_get_prime_2": true, 
+  "test_instructor.py::test_isprime_float_1": true, 
+  "test_instructor.py::test_isprime_float_2": true, 
+  "test_instructor.py::test_isprime_float_3": true, 
+  "test_instructor.py::test_isprime_float_4": true, 
+  "test_instructor.py::test_isprime_neg_1": true, 
+  "test_instructor.py::test_output_factors_1": true, 
+  "test_instructor.py::test_output_factors_2": true, 
+  "test_student.py::test_get_prime_1": true, 
+  "test_student.py::test_get_prime_2": true, 
+  "test_student.py::test_get_prime_3": true, 
+  "test_student.py::test_get_prime_4": true, 
+  "test_student.py::test_get_prime_5": true, 
+  "test_student.py::test_isprime_1": true, 
+  "test_student.py::test_isprime_float": true, 
+  "test_student.py::test_isprime_float_2": true, 
+  "test_student.py::test_output_factors_1": true, 
+  "test_student.py::test_output_factors_2": true
+}
